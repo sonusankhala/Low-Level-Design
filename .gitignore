@@ -1,1 +1,16 @@
-/build/
+# Java Compiled Output
+*.class
+*.jar
+*.war
+
+# Eclipse IDE Configuration Files
+.classpath
+.project
+.settings/
+
+# Build Directories
+bin/
+target/
+
+# macOS System Files
+.DS_Store
