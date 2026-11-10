@@ -77,7 +77,7 @@ public class TrafficLight {
 
 	public static void main(String[] args) {
 		
-		TrafficLight tl=new TrafficLight("RED");
+		TrafficLight tl=new TrafficLight("YELLOW");
 		System.out.println(
 			    tl.getColor() + ", " + 
 			    tl.describe() + ", " + 
